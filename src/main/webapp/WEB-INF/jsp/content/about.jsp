@@ -1,7 +1,8 @@
 <h1 class="title">ParaSoft Demo Website</h1>
 
 <p>
-  ParaBank is a demo site used for demonstration of Parasoft software solutions.
+  ParaBank is a demo site used for demonstration of Parasoft software solutions This is a
+  new change.
   <br/>
   All materials herein are used solely for simulating a realistic online banking website.
 </p>
